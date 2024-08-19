@@ -26,15 +26,29 @@ This project is a secure and scalable AI chatbot built using the MERN Stack (Mon
    cd chatbot-IW
    
 2. **Install server dependencies**:
+    ```bash
     npm install
    
 4. **Install client dependencies**:
-    npm install
+     ```bash
+     npm install
    
 6. **Start the server**:
-   cd ../backend
+    ```bash
+    cd ../backend
    npm run dev
      
 7. **Start the client**:
-   cd ../frontend
+    ```bash
+    cd ../frontend
    npm run dev
+
+### Usage
+Once the server and client are running, open your browser and navigate to http://localhost:3000 to access the chatbot application. Sign up, log in, and start chatting!
+
+### Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any bugs or improvements.
+
+### License
+This project is licensed under the MIT License.
+Feel free to customize this `README.md` according to your project's specifics and requirements
