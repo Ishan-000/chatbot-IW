@@ -1,4 +1,4 @@
-# AI Chatbot (ChatGPT Clone)
+# AI Chatbot (Open ai integration)
 
 This project is a secure and scalable AI chatbot built using the MERN Stack (MongoDB, Express, React, Node.js) and TypeScript. It leverages OpenAI's API for intelligent chat functionality and features a modern, responsive user interface with Material UI.
 
@@ -51,4 +51,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ### License
 This project is licensed under the MIT License.
-Feel free to customize this `README.md` according to your project's specifics and requirements
