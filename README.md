@@ -43,8 +43,11 @@ This project is a secure and scalable AI chatbot built using the MERN Stack (Mon
     cd ../frontend
    npm run dev
 
+
 ### Usage
-Once the server and client are running, open your browser and navigate to http://localhost:3000 to access the chatbot application. Sign up, log in, and start chatting!
+-Once the server and client are running, open your browser and navigate to http://localhost:3000 to access the chatbot application. Sign up, log 
+ in, and start chatting!  
+-Don't forget to set up the environment variables in the .env file
 
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or improvements.
